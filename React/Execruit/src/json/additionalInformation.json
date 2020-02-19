@@ -1,0 +1,44 @@
+{
+    "additional_Information": [
+        {
+            "value": "Publication",
+            "text": "Publication"
+        },
+        {
+            "value": "Presentation",
+            "text": "Presentation"
+        },
+        {
+            "value": "Project",
+            "text": "Project"
+        },
+        {
+            "value": "Conference",
+            "text": "Conference"
+        },
+        {
+            "value": "Seminar",
+            "text": "Seminar"
+        },
+        {
+            "value": "Honour & Award",
+            "text": "Honour & Award"
+        },
+        {
+            "value": "Membership",
+            "text": "Membership"
+        },
+        {
+            "value": "Citation",
+            "text": "Citation"
+        },
+        {
+            "value": "Course",
+            "text": "Course"
+        },
+        {
+            "value": "Certification",
+            "text": "Certification"
+        }
+    ]
+}

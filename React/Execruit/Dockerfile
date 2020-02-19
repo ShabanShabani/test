@@ -1,0 +1,19 @@
+# Stage 1 - Building image
+#FROM node:8.7.0-alpine as node
+
+#WORKDIR /usr/src/app
+
+#COPY package*.json ./
+
+#RUN npm install
+
+#COPY . .
+
+#RUN npm run build
+
+# Stage 2 - Running image
+FROM bitnami/nginx:1.14.2
+
+#COPY --from=node /usr/src/app/build /var/www/super-viva
+COPY ./build /var/www/execruit
+COPY ./nginx.conf /opt/bitnami/nginx/conf/nginx.conf

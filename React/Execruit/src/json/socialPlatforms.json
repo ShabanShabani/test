@@ -1,0 +1,64 @@
+{
+    "socialPlatforms": [
+        {
+            "image": "https://www.facebook.com/images/fb_icon_325x325.png",
+            "value": "Facebook",
+            "text": "Facebook"
+        },
+        {
+            "image": "https://www.instagram.com/static/images/ico/apple-touch-icon-76x76-precomposed.png/4272e394f5ad.png",
+            "value": "Instagram",
+            "text": "Instagram"
+        },
+        {
+            "image": "https://github.com/fluidicon.png",
+            "value": "GitHub",
+            "text": "GitHub"
+        },
+        {
+            "image": "https://gitlab.com/assets/favicon-7901bd695fb93edb07975966062049829afb56cf11511236e61bcf425070e36e.png",
+            "value": "GitLab",
+            "text": "GitLab"
+        },
+        {
+            "image": "https://static-exp1.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico",
+            "value": "Linkedin",
+            "text": "Linkedin"
+        },
+        {
+            "image": "https://abs.twimg.com/icons/apple-touch-icon-192x192.png",
+            "value": "twitter",
+            "text": "twitter"
+        },
+        {
+            "image": "https://wac-cdn.atlassian.com/assets/img/favicons/bitbucket/apple-touch-icon.png",
+            "value": "Bitbucket",
+            "text": "Bitbucket"
+        },
+        {
+            "image": "https://c1.sfdcstatic.com/etc/designs/sfdc-www/en_us/favicon.ico",
+            "value": "Salesforce",
+            "text": "Salesforce"
+        },
+        {
+            "image": "https://www.xing.com/assets/frontend_minified/img/shared/xing_icon_apple.png",
+            "value": "XING",
+            "text": "XING"
+        },
+        {
+            "image": "https://a5.behance.net/09c2288633578c58643a280abc45096275fcfd2c/img/site/apple-touch-icon.png?cb=264615658",
+            "value": "Behance",
+            "text": "Behance"
+        },
+        {
+            "image": "https://s.pinimg.com/webapp/style/images/favicon-fd1ea058.png",
+            "value": "Pinterest",
+            "text": "Pinterest"
+        },
+        {
+            "image": "https://assets.tumblr.com/images/favicons/favicon.ico?_v=8bfa6dd3e1249cd567350c606f8574dc",
+            "value": "tumblr",
+            "text": "tumblr"
+        }
+    ]
+}

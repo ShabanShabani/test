@@ -1,0 +1,96 @@
+@media only screen and (max-width: 1280px) and (min-width: 1280px), (max-height: 600px)
+{
+    #karta.main .first-card
+    {
+        padding: 0px 5px 0px 5px;
+    }
+    #karta.main .first-card .search input
+    {
+        width: 150px;
+        height: 30px;
+    }
+    .cards-pagination select
+    {
+        height: 30px;
+    }
+    .main .first-card .add-button
+    {
+        width: 160px;
+    }
+    .main .add-button div:first-of-type
+    {
+        padding: 5.1px;
+    }
+    .main .add-button div:first-of-type span {
+        font-size: 13px;
+    }
+    #karta.main .first-card .filter label
+    {
+        font-size: 14px;
+        color: #7f7f7f;
+        margin-right: 7px;
+    }
+    .filter-date .MuiFormControl-root.MuiTextField-root.MuiFormControl-marginNormal
+    {
+        width: 140px;
+        height: 30px;
+    }
+    .main .add-button div:nth-of-type(2)
+    {
+        width: 30px;
+        height: 30px;
+    }
+    .main .add-button div:nth-of-type(2) img
+    {
+        width: 15px;
+        height: 15px;
+    }
+    .pagination-box
+    {
+        width: 20px;
+        height: 20px;   
+    }
+    #karta.main .second-card
+    {
+        padding: 30px 5px;
+        padding-right: 0px;
+    }
+    #karta.main .first-card .filter input
+    {
+        height: 30px;
+    }
+    .cards-pagination .pagination img:nth-child(2)
+    {
+        outline: none;
+    }
+    #temperatura.main .second-card,
+    #stock.main .second-stock
+    {
+        height: auto;
+    }
+    #temperatura.main .first-card
+    {
+        padding: 0px 10px;
+    }
+    #temperatura.main .first-card span
+    {
+        font-size: 19px;
+    }
+    .filter-date.date-input .MuiFormControl-root.MuiTextField-root.MuiFormControl-marginNormal .MuiInputBase-input.MuiInput-input.MuiInputBase-inputAdornedEnd
+    {
+        height: 30px;
+    }
+    #temperatura.main .second-card
+    {
+        padding: 30px 10px;
+    }
+    #raporti.main .second-raporti
+    {
+        min-height: 400px;
+        height: auto;
+    }
+    .green-house .first-part
+    {
+        height: calc(100vh - 150px);
+    }
+}

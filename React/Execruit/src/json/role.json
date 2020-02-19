@@ -1,0 +1,12 @@
+{
+    "role": [
+        {
+            "text": "User",
+            "value": "User"
+        },
+        {
+            "text": "Company",
+            "value": "Company"
+        }
+    ]
+}

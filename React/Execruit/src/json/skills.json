@@ -1,0 +1,39 @@
+{
+  "skills": [
+    {
+      "key": "PHP",
+      "text": "PHP",
+      "value": "PHP"
+    },
+    {
+      "key": "Java",
+      "text": "Java",
+      "value": "Java"
+    },
+    {
+      "key": "ReactJs",
+      "text": "ReactJs",
+      "value": "ReactJs"
+    },
+    {
+      "key": "HTML",
+      "text": "HTML",
+      "value": "HTML"
+    },
+    {
+      "key": "CSS",
+      "text": "CSS",
+      "value": "CSS"
+    },
+    {
+      "key": "JavaScript",
+      "text": "JavaScript",
+      "value": "JavaScript"
+    },
+    {
+      "key": "Python",
+      "text": "Python",
+      "value": "Python"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+    "categories": [
+        {
+            "id": "1",
+            "text": "AM",
+            "value": "AM"
+        },
+        {
+            "id": "1",
+            "text": "A1",
+            "value": "A1"
+        },
+        {
+            "id": "1",
+            "text": "A2",
+            "value": "A2"
+        },
+        {
+            "id": "1",
+            "text": "A",
+            "value": "A"
+        },
+        {
+            "id": "1",
+            "text": "B1",
+            "value": "B1"
+        },
+        {
+            "id": "1",
+            "text": "B",
+            "value": "B"
+        },
+        {
+            "id": "1",
+            "text": "BE",
+            "value": "BE"
+        },
+        {
+            "id": "1",
+            "text": "C1",
+            "value": "C1"
+        },
+        {
+            "id": "1",
+            "text": "C1E",
+            "value": "C1E"
+        },
+        {
+            "id": "1",
+            "text": "C",
+            "value": "C"
+        },
+        {
+            "id": "1",
+            "text": "CE",
+            "value": "CE"
+        },
+        {
+            "id": "1",
+            "text": "D1",
+            "value": "D1"
+        },
+        {
+            "id": "1",
+            "text": "D1E",
+            "value": "D1E"
+        },
+        {
+            "id": "1",
+            "text": "D",
+            "value": "D"
+        },
+        {
+            "id": "1",
+            "text": "DE",
+            "value": "DE"
+        }
+    ]
+}

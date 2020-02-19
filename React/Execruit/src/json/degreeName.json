@@ -1,0 +1,32 @@
+{
+    "degreeName": [
+        {
+            "value": "High School",
+            "text": "High School"
+        },
+        {
+            "value": "Bachelor",
+            "text": "Bachelor"
+        },
+        {
+            "value": "Master",
+            "text": "Master"
+        },
+        {
+            "value": "PhD",
+            "text": "PhD"
+        },
+        {
+            "value": "Postgraduate Certificate",
+            "text": "Postgraduate Certificate"
+        },
+        {
+            "value": "Vocational Training Certificate",
+            "text": "Vocational Training Certificate"
+        },
+        {
+            "value": "Other",
+            "text": "Other"
+        }
+    ]
+}

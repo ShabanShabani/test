@@ -1,0 +1,12 @@
+{
+    "privacy": [
+        {
+            "text": "Public",
+            "value": "public"
+        },
+        {
+            "text": "Private",
+            "value": "private"
+        }
+    ]
+}
