@@ -1,0 +1,32 @@
+# Uncomment the next line to define a global platform for your project
+	platform :ios, '10.0'
+source 'https://github.com/CocoaPods/Specs.git'
+target 'Tema' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+pod 'Alamofire', '~> 4.5'
+pod 'GoogleMaps'
+  pod 'GooglePlaces'
+pod 'SwiftyJSON'
+  # Pods for Tema
+
+  target 'TemaTests' do
+    inherit! :search_paths
+end
+
+  target 'TemaUITests' do
+    inherit! :search_paths
+end
+
+end
+
+
+
+
+
+
+
+
+
+
+

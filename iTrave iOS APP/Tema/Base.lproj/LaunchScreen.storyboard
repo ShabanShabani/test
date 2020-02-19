@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina5_9" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Background" translatesAutoresizingMaskIntoConstraints="NO" id="nEJ-iu-Wud">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="812"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="iTravel" translatesAutoresizingMaskIntoConstraints="NO" id="AFL-3O-Mn2">
+                                <rect key="frame" x="98" y="152" width="178" height="65"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="nEJ-iu-Wud" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="6fd-eV-J8F"/>
+                            <constraint firstItem="nEJ-iu-Wud" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="E8Z-d2-MZS"/>
+                            <constraint firstItem="nEJ-iu-Wud" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="NPh-mx-erP"/>
+                            <constraint firstItem="nEJ-iu-Wud" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="fnU-C5-LXv"/>
+                            <constraint firstItem="nEJ-iu-Wud" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="sQV-jE-54w"/>
+                            <constraint firstAttribute="bottom" secondItem="nEJ-iu-Wud" secondAttribute="bottom" id="unE-7k-5Um"/>
+                            <constraint firstAttribute="bottom" secondItem="nEJ-iu-Wud" secondAttribute="bottom" id="wjS-wp-ifO"/>
+                            <constraint firstItem="nEJ-iu-Wud" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="ydT-Fq-TP7"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="52" y="374.6305418719212"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="Background" width="1125" height="2436"/>
+        <image name="iTravel" width="449" height="173"/>
+    </resources>
+</document>

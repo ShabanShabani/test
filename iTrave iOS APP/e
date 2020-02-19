@@ -1,0 +1,15 @@
+platform :ios, '9.0'
+  use_frameworks!
+
+  target 'Tema' do
+      pod 'Alamofire'
+      pod 'SwiftyJSON'
+  end
+
+  target 'TemaTests' do
+
+  end
+
+  target 'TemaUITests' do
+
+  end
